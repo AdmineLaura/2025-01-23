@@ -42,10 +42,8 @@ env:
   # github.repository as <account>/<repo>
   IMAGE_NAME: ${{ laurasili/2025-01-23 }}
 
-
-jobs:
   build:
-
+  
     runs-on: ubuntu-latest
     permissions:
       contents: read
