@@ -1,6 +1,7 @@
 Artifact management plays an important role in CI/CD pipelines. It ensures that software builds are reliable and consistent. 
 
-Artifact management refers to the process of storing, versioning and tracking binary files, or so called "artifacts" that are produced during the software development process. Top Artifact management benefits are: version control & traceability, universality, security, speed, cost-effectiveness and storage & distribution. 
+Artifact management refers to the process of storing, versioning and tracking binary files, or so called "artifacts" that are produced during the software 
+development process. Top Artifact management benefits are: version control & traceability, universality, security, speed, cost-effectiveness and storage & distribution. 
 
 Most popular Artifact Repositories are: 
 - JFrog Artifactory, 
@@ -12,7 +13,9 @@ These Artifact Repositories integrating seamlessly with CI/CD workflows.
 Integrating Artifact repositories with CI/CD tools can be done in different ways, depending on the needs and preferences:
 - Plugins or extensions are a common method.  
 - API or command-line tools can also be used to interact with the artifact repository (for example upload or download artifacts). 
-- Configuration files and scripts also can be used to define how artifacts are stored and managed in the artifact repository, like specifying metadata and properties or automating tasks like cleaning or pruning artifacts.
+- Configuration files and scripts also can be used to define how artifacts are stored and managed in the artifact repository, like specifying metadata and properties 
+or automating tasks like cleaning or pruning artifacts.
 
-By implementing effective Artifact management, software quality, security, and deployment speed can be improved significantly. That leads to a more reliable and scalable DevOps process. 
+By implementing effective Artifact management, software quality, security, and deployment speed can be improved significantly. That leads to a more reliable and 
+scalable DevOps process. 
 
