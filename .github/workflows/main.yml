@@ -40,7 +40,7 @@ env:
   # Use docker.io for Docker Hub if empty
   REGISTRY: docker.io
   # github.repository as <account>/<repo>
-  IMAGE_NAME: ${{ laurasili/2025-01-23 }}
+  IMAGE_NAME: ${{ "laurasili/2025-01-23" }}
 
   build:
   
